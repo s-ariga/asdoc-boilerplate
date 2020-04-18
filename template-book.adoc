@@ -1,0 +1,23 @@
+= Asciidoc用テンプレート
+:doctype: article
+:icons: font
+:listing-caption: Listing
+:author: Alexander Kudelin
+:revnumber: 0.1
+:revdate: 2020/04/14
+:lang: ja
+:chapter-label:
+:toc: macro
+:toclevels: 3
+:toc-title: 目次
+:example-caption: 例
+:table-caption: 表
+:figure-caption: 図
+:sectnums:
+:sectlinks:
+:encoding: utf-8
+:source-highlighter: coderay
+
+toc::[]
+
+== 第1節
